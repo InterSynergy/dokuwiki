@@ -1,3 +1,12 @@
 [submodule "lib/tpl/dokutwitterbootstrap"]
 	path = lib/tpl/dokutwitterbootstrap
 	url = git@github.com:InterSynergy/dokutwitterbootstrap.git
+[submodule "lib/tpl/codowik"]
+	path = lib/tpl/codowik
+	url = git@github.com:InterSynergy/codowik.git
+[submodule "lib/tpl/dokuwiki-template-mnml-blog"]
+	path = lib/tpl/dokuwiki-template-mnml-blog
+	url = git@github.com:InterSynergy/dokuwiki-template-mnml-blog.git
+[submodule "lib/tpl/dokuwiki-template-vector"]
+	path = lib/tpl/dokuwiki-template-vector
+	url = git@github.com:InterSynergy/dokuwiki-template-vector.git
