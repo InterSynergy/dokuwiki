@@ -44,6 +44,7 @@
 
 !/lib/plugins/flowplayer
 !/lib/plugins/box
+!/lib/plugins/header2
 
 !/lib/plugins/authad
 !/lib/plugins/authldap

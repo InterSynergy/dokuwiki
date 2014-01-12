@@ -16,3 +16,6 @@
 [submodule "lib/plugins/box"]
 	path = lib/plugins/box
 	url = git@github.com:InterSynergy/dokuwiki-plugin-box.git
+[submodule "lib/plugins/header2"]
+	path = lib/plugins/header2
+	url = git@github.com:InterSynergy/dokuwiki-plugin-header2.git
