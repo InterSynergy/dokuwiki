@@ -10,3 +10,6 @@
 [submodule "lib/tpl/dokuwiki-template-vector"]
 	path = lib/tpl/dokuwiki-template-vector
 	url = git@github.com:InterSynergy/dokuwiki-template-vector.git
+[submodule "lib/plugins/flowplayer"]
+	path = lib/plugins/flowplayer
+	url = git@github.com:InterSynergy/flowplayer.git
