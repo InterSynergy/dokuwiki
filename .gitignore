@@ -31,7 +31,12 @@
 !/data/pages/wiki/welcome.txt
 /data/tmp/*
 /lib/tpl/*
+
+!/lib/tpl/codowik
+!/lib/tpl/dokuwiki-template-mnml-blog
+!/lib/tpl/dokuwiki-template-vector
 !/lib/tpl/dokutwitterbootstrap
+
 !/lib/tpl/default
 !/lib/tpl/dokuwiki
 !/lib/tpl/index.php
