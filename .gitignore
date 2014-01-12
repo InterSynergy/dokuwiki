@@ -43,6 +43,7 @@
 /lib/plugins/*
 
 !/lib/plugins/flowplayer
+!/lib/plugins/box
 
 !/lib/plugins/authad
 !/lib/plugins/authldap

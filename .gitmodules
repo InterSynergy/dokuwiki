@@ -13,3 +13,6 @@
 [submodule "lib/plugins/flowplayer"]
 	path = lib/plugins/flowplayer
 	url = git@github.com:InterSynergy/flowplayer.git
+[submodule "lib/plugins/box"]
+	path = lib/plugins/box
+	url = git@github.com:InterSynergy/dokuwiki-plugin-box.git
