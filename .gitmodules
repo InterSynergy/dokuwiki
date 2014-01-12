@@ -1,0 +1,3 @@
+[submodule "lib/tpl/dokutwitterbootstrap"]
+	path = lib/tpl/dokutwitterbootstrap
+	url = git@github.com:InterSynergy/dokutwitterbootstrap.git
